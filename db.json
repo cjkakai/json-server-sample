@@ -1,84 +1,94 @@
 {
-  "destinations": [
+  "goals": [
     {
-      "id": 1,
-      "name": "Bwindi Impenetrable Forest",
-      "continent": "Africa",
-      "image": "https://cdn.shortpixel.ai/spai/q_glossy+ret_img+to_auto/www.discoverafrica.com/wp-content/uploads/2021/11/gorilla-trekking-uganda-safari-3-1200x800.jpg",
-      "description": "A dense rainforest in Uganda famous for endangered mountain gorillas.",
-      "visited": false
+      "id": "1",
+      "name": "Travel Fund - Japan",
+      "targetAmount": 5000,
+      "savedAmount": 3200,
+      "category": "Travel",
+      "deadline": "2025-12-31",
+      "createdAt": "2024-01-15"
     },
     {
-      "id": 2,
-      "name": "Whitsunday Islands",
-      "continent": "Australia",
-      "image": "https://lp-cms-production.imgix.net/features/2015/03/Whitehaven-aerial-view_cs.jpg",
-      "description": "A collection of tropical islands off Queensland’s coast with turquoise waters and white sand.",
-      "visited": false
+      "id": "2",
+      "name": "Emergency Fund",
+      "targetAmount": 10000,
+      "savedAmount": 7500,
+      "category": "Emergency",
+      "deadline": "2026-06-30",
+      "createdAt": "2023-05-01"
     },
     {
-      "id": 3,
-      "name": "Plitvice Lakes National Park",
-      "continent": "Europe",
-      "image": "https://lh3.googleusercontent.com/gps-cs-s/AC9h4nqckhIlE_wi0R8ejN4_eb0DdIUgjAknf-Bb67zG6ZV8pwzPeLAu7erVOWer56IO9EHpWsKL9fEBr6dy-kf4octXD_fUdUhBj2ZlttmgwjXyhuXofo8G22dFLJftsoZN8bBAvIc=s1360-w1360-h1020-rw",
-      "description": "A forest reserve in Croatia known for cascading lakes and waterfalls.",
-      "visited": false
+      "id": "3",
+      "name": "New Laptop",
+      "targetAmount": 1500,
+      "savedAmount": 1500,
+      "category": "Electronics",
+      "deadline": "2024-07-20",
+      "createdAt": "2024-03-10"
     },
     {
-      "id": 4,
-      "name": "Sossusvlei",
-      "continent": "Africa",
-      "image": "https://artofsafari.travel/wp-content/uploads/2017/02/BANNER-iStock_Namibia_NaukluftNationalPark_LandscapeSossusvleiDune.jpg",
-      "description": "A surreal desert in Namibia with towering red dunes and salt pans.",
-      "visited": false
+      "id": "4",
+      "name": "Down Payment - House",
+      "targetAmount": 50000,
+      "savedAmount": 12000,
+      "category": "Real Estate",
+      "deadline": "2027-12-31",
+      "createdAt": "2024-02-01"
     },
     {
-      "id": 5,
-      "name": "Hallstatt",
-      "continent": "Europe",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBdUTzFSyphY28ikh7WxgfpMSH-04Lum6HEw&s",
-      "description": "A charming lakeside village in Austria nestled between mountains.",
-      "visited": false
+      "id": "5",
+      "name": "Car Maintenance",
+      "targetAmount": 800,
+      "savedAmount": 600,
+      "category": "Vehicle",
+      "deadline": "2025-09-15",
+      "createdAt": "2024-06-01"
     },
     {
-      "id": 6,
-      "name": "Isle of Skye",
-      "continent": "Europe",
-      "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_SVMbmpHUt1g0slF9qLa8nqjbEVCO1Zq4mg&s",
-      "description": "A rugged island in Scotland with dramatic cliffs, lochs, and fairy pools.",
-      "visited": false
+      "id": "6",
+      "name": "Education Fund",
+      "targetAmount": 20000,
+      "savedAmount": 5000,
+      "category": "Education",
+      "deadline": "2028-01-01",
+      "createdAt": "2024-04-20"
     },
     {
-      "id": 7,
-      "name": "Socotra Island",
-      "continent": "Asia",
-      "image": "https://cdn.britannica.com/47/121247-050-7417B985/desert-rose-Socotra-bottle-tree-island-Yemen.jpg",
-      "description": "A remote Yemeni island with alien-like dragon trees and biodiversity found nowhere else.",
-      "visited": false
+      "id": "7",
+      "name": "Holiday Gifts",
+      "targetAmount": 1000,
+      "savedAmount": 200,
+      "category": "Shopping",
+      "deadline": "2024-08-10",
+      "createdAt": "2024-07-01"
     },
     {
-      "id": 8,
-      "name": "To Sua Ocean Trench",
-      "continent": "Oceania",
-      "image": "https://static.ffx.io/images/$zoom_1%2C$multiply_0.7475%2C$ratio_1.777778%2C$width_1980%2C$x_20%2C$y_140/t_crop_custom/q_62%2Cf_auto/efe3557777adb942c15ce44d0f6f21e9f252ffd2",
-      "description": "A breathtaking natural swimming hole in Samoa surrounded by lush gardens.",
-      "visited": false
+      "id": "8",
+      "name": "New Phone",
+      "targetAmount": 1200,
+      "savedAmount": 0,
+      "category": "Electronics",
+      "deadline": "2025-01-31",
+      "createdAt": "2024-07-10"
     },
     {
-      "id": 9,
-      "name": "Tulum Ruins Beach",
-      "continent": "North America",
-      "image": "https://mexicocenotesandruins.com/wp-content/uploads/2022/03/tulum_ruins_07.jpg.webp",
-      "description": "A unique beach in Mexico with Mayan ruins overlooking turquoise waters.",
-      "visited": false
+      "id": "9",
+      "name": "Retirement Savings",
+      "targetAmount": 100000,
+      "savedAmount": 15000,
+      "category": "Retirement",
+      "deadline": "2035-01-01",
+      "createdAt": "2023-01-01"
     },
     {
-      "id": 10,
-      "name": "Lake Bled",
-      "continent": "Europe",
-      "image": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/84/Lake_Bled_from_the_Mountain.jpg/500px-Lake_Bled_from_the_Mountain.jpg",
-      "description": "A fairytale lake in Slovenia with a tiny island and medieval church in the center.",
-      "visited": false
+      "id": "10",
+      "name": "Home Renovation",
+      "targetAmount": 7500,
+      "savedAmount": 1000,
+      "category": "Home",
+      "deadline": "2025-03-31",
+      "createdAt": "2024-05-15"
     }
   ]
 }
